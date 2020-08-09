@@ -1,0 +1,141 @@
+﻿@page
+@model KICKDRIVE.Pages.CRUDS.Supervisor.IndexModel
+
+@{ ViewData["Title"] = "Index"; }
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<a asp-page-handler="Report" class="btn btn-dark">Crear reporte</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].Apellido_paterno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].Apellido_materno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].Contraseña)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].Usuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].CreateAT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].UpdateAT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupervisorS[0].Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.SupervisorS)
+        {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Nombre)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Apellido_paterno)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Apellido_materno)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Contraseña)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Usuario)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CreateAT)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.UpdateAT)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Status)
+    </td>
+    <td>
+        <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+        <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+        <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+    </td>
+</tr>
+}
+    </tbody>
+</table>
+
+@section Scripts
+{
+
+    <script src="~/lib/pdfmake/pdfmake.min.js"></script>
+    <script src="~/lib/pdfmake/vfs_fonts.js"></script>
+    <script type="text/javascript">
+            //$(document).ready(function () {
+            //    alert('hola');
+            //    });
+        //function getWorkshop() {
+        //    $.ajax({
+        //        url: "?handler=AsyncFullWorkshops",
+        //            method: "GET"
+        //    }).done(function (data) {
+        //        createTable(data);
+        //    }).fail(function (jqXHR, textStatus, error) {
+        //        alert("uys: '(");
+        //});
+        //}
+    function createReport(data) {
+    var win = window.open('', '_blank');
+        var docDefinition = {
+            content: [
+                'Supervisores',
+                { text: '', style: 'header' },
+                {
+                    stke: 'tableExample',
+                    table: {
+                        body: [
+                            ['Nombre', 'Apellido_paterno', 'Apellido_materno', 'Contraseña', 'Usuario', 'CreateAT'],
+                           
+                            [,'Perez','dzib','1234','9i9','04/ 08 / 2020 07: 00: 10 p.m.'],
+                            ['', '', '', '', '', ''],
+                        ]
+                    }
+                }
+            ],
+            style: {
+                header: {
+                    fontSize: 18,
+                    bold: true,
+                    margin: [0, 0, 0, 10]
+                },
+                subheader: {
+                    fontSize: 16,
+                    bold: true,
+                    margin: [0, 10, 0, 5]
+                },
+                tableExample: {
+                    margin: [0, 0, 0, 15]
+                },
+                tableHeader: {
+
+                },
+            }
+        };
+        pdfMake.createPdf(docDefinition).open({}, win);
+    }
+    </script>
+}

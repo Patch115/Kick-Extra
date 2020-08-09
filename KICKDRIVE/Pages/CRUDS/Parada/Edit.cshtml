@@ -1,0 +1,70 @@
+﻿@page
+@model KICKDRIVE.Pages.CRUDS.Parada.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Parada</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Parada.Incidentes" class="control-label"></label>
+                <input asp-for="Parada.Incidentes" class="form-control" />
+                <span asp-validation-for="Parada.Incidentes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Parada.Tipo_incidente" class="control-label"></label>
+                <input asp-for="Parada.Tipo_incidente" class="form-control" />
+                <span asp-validation-for="Parada.Tipo_incidente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Parada.Fecha" class="control-label"></label>
+                <input asp-for="Parada.Fecha" class="form-control" />
+                <span asp-validation-for="Parada.Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Parada.Hora" class="control-label"></label>
+                <input asp-for="Parada.Hora" class="form-control" />
+                <span asp-validation-for="Parada.Hora" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Parada.Ruta" class="control-label"></label>
+                <input asp-for="Parada.Ruta" class="form-control" />
+                <span asp-validation-for="Parada.Ruta" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Parada.Id" />
+            <div class="form-group">
+                <label asp-for="Parada.CreateAT" class="control-label"></label>
+                <input asp-for="Parada.CreateAT" class="form-control" />
+                <span asp-validation-for="Parada.CreateAT" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Parada.UpdateAT" class="control-label"></label>
+                <input asp-for="Parada.UpdateAT" class="form-control" />
+                <span asp-validation-for="Parada.UpdateAT" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Parada.Status" /> @Html.DisplayNameFor(model => model.Parada.Status)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

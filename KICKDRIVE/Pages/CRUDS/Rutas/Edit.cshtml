@@ -1,0 +1,55 @@
+﻿@page
+@model KICKDRIVE.Pages.CRUDS.Rutas.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Ruta</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ruta.Nombre" class="control-label"></label>
+                <input asp-for="Ruta.Nombre" class="form-control" />
+                <span asp-validation-for="Ruta.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ruta.Distancia" class="control-label"></label>
+                <input asp-for="Ruta.Distancia" class="form-control" />
+                <span asp-validation-for="Ruta.Distancia" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Ruta.Id" />
+            <div class="form-group">
+                <label asp-for="Ruta.CreateAT" class="control-label"></label>
+                <input asp-for="Ruta.CreateAT" class="form-control" />
+                <span asp-validation-for="Ruta.CreateAT" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ruta.UpdateAT" class="control-label"></label>
+                <input asp-for="Ruta.UpdateAT" class="form-control" />
+                <span asp-validation-for="Ruta.UpdateAT" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Ruta.Status" /> @Html.DisplayNameFor(model => model.Ruta.Status)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

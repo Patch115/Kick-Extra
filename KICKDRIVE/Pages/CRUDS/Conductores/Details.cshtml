@@ -1,0 +1,79 @@
+﻿@page
+@model KICKDRIVE.Pages.CRUDS.Conductores.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Conductor</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Conduc)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Conduc)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Apellido_paterno)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Apellido_paterno)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Apellido_materno)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Apellido_materno)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Tipo_licencia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Tipo_licencia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Autobus)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Autobus)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Aatricula)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Aatricula)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.CreateAT)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.CreateAT)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.UpdateAT)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.UpdateAT)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conductor.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conductor.Status)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Conductor.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,0 +1,33 @@
+﻿@page
+@model KICKDRIVE.Pages.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="text-center">
+    <div class="containerlogin">
+        <h1>Kick Drive</h1>
+        <div class="card-body">
+            <br />
+            <h5 class="text-center">Inicie sesión para acceder</h5>
+            <div>
+                <div>
+                    <div>
+                        <form>
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Nombre de usuario" name="username" />
+                            </div>
+                            <div>
+                                <input type="password" class="form-control" placeholder="Contrasena" name="password" />
+                            </div>
+
+                            <p class="submit">
+
+                                <input asp-area="" asp-page="/Tab/inic" type="submit" name="login" class="button" value="Entrar" />
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

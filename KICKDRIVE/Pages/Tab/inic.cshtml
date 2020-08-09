@@ -1,0 +1,69 @@
+﻿@page
+@model KICKDRIVE.Pages.Tab.inicModel
+@{
+}
+<div class="container">
+    <h1>Kik Drive</h1>
+    <h4 class="text-center">Bienvenido a Kick Drive</h4>
+    <div class="containerCard">
+        <div class="containercd">
+            <div class="row text-center align-content-center">
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="~/IMG/Super.jpg" alt="Card image cap" />
+                        <div class="card-body">
+                            <h5 class="card-title">Registro De Supervisores</h5>
+                            <a asp-area="" asp-page="/CRUDS/Supervisor/Index" class="btn btn-dark">Ver</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="~/IMG/chof.png" alt="Card image cap" />
+                        <div class="card-body">
+                            <h5 class="card-title">Registro De Conductores</h5>
+                            <a asp-area="" asp-page="/CRUDS/Conductores/Index" class="btn btn-dark">Ver</a>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="~/IMG/regi.png" alt="Card image cap" />
+                        <div class="card-body">
+                            <h5 class="card-title">Usuarios</h5>
+                            <a asp-area="" asp-page="/CRUDS/Usuario/Index" class="btn btn-dark">Ver</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="~/IMG/ruta.jpg" alt="Card image cap" />
+                        <div class="card-body">
+                            <h5 class="card-title">Registro De Rutas</h5>
+                            <a asp-area="" asp-page="/CRUDS/Rutas/Index" class="btn btn-dark">Ver</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="~/IMG/para.png" alt="Card image cap" />
+                        <div class="card-body">
+                            <h5 class="card-title">Registro De Paradas</h5>
+                            <a asp-area="" asp-page="/CRUDS/Parada/Index" class="btn btn-dark">Ver</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="~/IMG/aut.png" alt="Card image cap" />
+                        <div class="card-body">
+                            <h5 class="card-title">Registro De Autobuses</h5>
+                            <a asp-area="" asp-page="/CRUDs/autobuses/Index" class="btn btn-dark">Ver</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

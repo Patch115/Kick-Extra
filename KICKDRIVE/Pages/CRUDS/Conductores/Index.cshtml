@@ -1,0 +1,90 @@
+﻿@page
+@model KICKDRIVE.Pages.CRUDS.Conductores.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Conduc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Apellido_paterno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Apellido_materno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Tipo_licencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Autobus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Aatricula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].CreateAT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].UpdateAT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conductor[0].Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Conductor) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Conduc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido_paterno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido_materno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo_licencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autobus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aatricula)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateAT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateAT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

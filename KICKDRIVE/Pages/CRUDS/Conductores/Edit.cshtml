@@ -1,0 +1,80 @@
+﻿@page
+@model KICKDRIVE.Pages.CRUDS.Conductores.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Conductor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Conductor.Conduc" class="control-label"></label>
+                <input asp-for="Conductor.Conduc" class="form-control" />
+                <span asp-validation-for="Conductor.Conduc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.Nombre" class="control-label"></label>
+                <input asp-for="Conductor.Nombre" class="form-control" />
+                <span asp-validation-for="Conductor.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.Apellido_paterno" class="control-label"></label>
+                <input asp-for="Conductor.Apellido_paterno" class="form-control" />
+                <span asp-validation-for="Conductor.Apellido_paterno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.Apellido_materno" class="control-label"></label>
+                <input asp-for="Conductor.Apellido_materno" class="form-control" />
+                <span asp-validation-for="Conductor.Apellido_materno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.Tipo_licencia" class="control-label"></label>
+                <input asp-for="Conductor.Tipo_licencia" class="form-control" />
+                <span asp-validation-for="Conductor.Tipo_licencia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.Autobus" class="control-label"></label>
+                <input asp-for="Conductor.Autobus" class="form-control" />
+                <span asp-validation-for="Conductor.Autobus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.Aatricula" class="control-label"></label>
+                <input asp-for="Conductor.Aatricula" class="form-control" />
+                <span asp-validation-for="Conductor.Aatricula" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Conductor.Id" />
+            <div class="form-group">
+                <label asp-for="Conductor.CreateAT" class="control-label"></label>
+                <input asp-for="Conductor.CreateAT" class="form-control" />
+                <span asp-validation-for="Conductor.CreateAT" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conductor.UpdateAT" class="control-label"></label>
+                <input asp-for="Conductor.UpdateAT" class="form-control" />
+                <span asp-validation-for="Conductor.UpdateAT" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Conductor.Status" /> @Html.DisplayNameFor(model => model.Conductor.Status)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

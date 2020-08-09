@@ -1,0 +1,89 @@
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csprojAssemblyReference.cache
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfoInputs.cache
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfo.cs
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.deps.json
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CopyComplete
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.json
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.dev.json
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CoreCompileInputs.cache
+C:\Users\perzd\source\repos\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.genruntimeconfig.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.deps.json
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.json
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.dev.json
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csprojAssemblyReference.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CoreCompileInputs.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfoInputs.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfo.cs
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CopyComplete
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.genruntimeconfig.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.deps.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.dev.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csprojAssemblyReference.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfoInputs.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfo.cs
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CoreCompileInputs.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CopyComplete
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.genruntimeconfig.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.deps.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.dev.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csprojAssemblyReference.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfoInputs.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfo.cs
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CopyComplete
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.genruntimeconfig.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfo.cs
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.deps.json
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.json
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.dev.json
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CopyComplete
+C:\Users\user\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.genruntimeconfig.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.deps.json
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.json
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.runtimeconfig.dev.json
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.dll
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDSevice.pdb
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csprojAssemblyReference.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfoInputs.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.AssemblyInfo.cs
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CoreCompileInputs.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.csproj.CopyComplete
+C:\Users\perzd\Desktop\Kick-Drive-master\KDSevice\obj\Debug\netcoreapp3.1\KDSevice.genruntimeconfig.cache

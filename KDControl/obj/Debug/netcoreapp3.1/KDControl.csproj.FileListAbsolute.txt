@@ -1,0 +1,71 @@
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.deps.json
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.csprojAssemblyReference.cache
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfoInputs.cache
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfo.cs
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.json
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.dev.json
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.genruntimeconfig.cache
+C:\Users\perzd\source\repos\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.csproj.CoreCompileInputs.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.deps.json
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.json
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.dev.json
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.csprojAssemblyReference.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.csproj.CoreCompileInputs.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfoInputs.cache
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfo.cs
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\DABES_JOSMAR\Downloads\Nueva carpeta (7)\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.genruntimeconfig.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.deps.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.dev.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.csprojAssemblyReference.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfoInputs.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfo.cs
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.csproj.CoreCompileInputs.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\KICKDRIVE\KDControl\obj\Debug\netcoreapp3.1\KDControl.genruntimeconfig.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.deps.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.dev.json
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.csprojAssemblyReference.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfoInputs.cache
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfo.cs
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\3D Objects\ASP.NET\PROYECTO FINAL\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.genruntimeconfig.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.deps.json
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.json
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.dev.json
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfo.cs
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\user\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.genruntimeconfig.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.deps.json
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.json
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.runtimeconfig.dev.json
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.dll
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\bin\Debug\netcoreapp3.1\KDControl.pdb
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.csprojAssemblyReference.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfoInputs.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.AssemblyInfo.cs
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.csproj.CoreCompileInputs.cache
+C:\Users\perzd\Desktop\Kick-Drive-master\KDControl\obj\Debug\netcoreapp3.1\KDControl.genruntimeconfig.cache
